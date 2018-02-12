@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene1.unity
     guid: c97885da464941546a7dd000fb736cbe
+  - enabled: 1
+    path: Assets/Scenes/Minimap.unity
+    guid: fb41cd38ad5bdec4abf82e3b64804304
